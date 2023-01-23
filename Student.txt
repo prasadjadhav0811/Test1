@@ -1,0 +1,2 @@
+ welcome to student  file.
+ here you can get  all  info of student
